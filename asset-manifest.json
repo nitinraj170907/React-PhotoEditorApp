@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nitinraj170907/React-PhotoEditorApp/static/css/main.2e544694.chunk.css",
+    "main.js": "/nitinraj170907/React-PhotoEditorApp/static/js/main.792e336a.chunk.js",
+    "main.js.map": "/nitinraj170907/React-PhotoEditorApp/static/js/main.792e336a.chunk.js.map",
+    "runtime-main.js": "/nitinraj170907/React-PhotoEditorApp/static/js/runtime-main.566a07cc.js",
+    "runtime-main.js.map": "/nitinraj170907/React-PhotoEditorApp/static/js/runtime-main.566a07cc.js.map",
+    "static/js/2.0103e952.chunk.js": "/nitinraj170907/React-PhotoEditorApp/static/js/2.0103e952.chunk.js",
+    "static/js/2.0103e952.chunk.js.map": "/nitinraj170907/React-PhotoEditorApp/static/js/2.0103e952.chunk.js.map",
+    "index.html": "/nitinraj170907/React-PhotoEditorApp/index.html",
+    "precache-manifest.5bfeb1d986040d779f5338f8683dc612.js": "/nitinraj170907/React-PhotoEditorApp/precache-manifest.5bfeb1d986040d779f5338f8683dc612.js",
+    "service-worker.js": "/nitinraj170907/React-PhotoEditorApp/service-worker.js",
+    "static/css/main.2e544694.chunk.css.map": "/nitinraj170907/React-PhotoEditorApp/static/css/main.2e544694.chunk.css.map",
+    "static/js/2.0103e952.chunk.js.LICENSE.txt": "/nitinraj170907/React-PhotoEditorApp/static/js/2.0103e952.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.566a07cc.js",
+    "static/js/2.0103e952.chunk.js",
+    "static/css/main.2e544694.chunk.css",
+    "static/js/main.792e336a.chunk.js"
+  ]
+}
